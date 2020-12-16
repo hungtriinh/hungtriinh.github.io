@@ -333,3 +333,11 @@ function sem2(){
 function sem3(){
     alert("PRJ311 - KhuongPD - Summer 2020\nOSG202 - KienLT - Summer 2020\nCSD202 - KhuongPD - Summer 2020\nJPD111 - AnhNH88 - Summer 2020\nLAB211 - DuongTB - Summer 2020");
 }
+
+function sem4(){
+    alert("NWC203c - TungHT22 - Fall 2020\nSWE102 - HaPN - Fall 2020\nLAB221 - SangNV - Fall 2020\nJPD121 - HoaPTT8 - Fall 2020\nPRJ321 - unknown - Spring 2021");
+}
+
+function sem5(){
+    alert("JPD133 -  - Spring 2021\nSWR302 -  - Spring 2021\nSWT301 -  - Spring 2021\nPRN292 -  - Spring 2021\nLAB231 -  - Spring 2021");
+}
