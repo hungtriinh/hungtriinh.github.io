@@ -339,5 +339,5 @@ function sem4(){
 }
 
 function sem5(){
-    alert("JPD133 -  - Spring 2021\nSWR302 -  - Spring 2021\nSWT301 -  - Spring 2021\nPRN292 -  - Spring 2021\nLAB231 -  - Spring 2021");
+    alert("JPD133 - HanhVB - Spring 2021\nSWR302 - ChienBD - Spring 2021\nSWT301 - HaPN - Spring 2021\nPRN292 - ThoPN3 - Spring 2021\nLAB231 -  - [] 2021");
 }
